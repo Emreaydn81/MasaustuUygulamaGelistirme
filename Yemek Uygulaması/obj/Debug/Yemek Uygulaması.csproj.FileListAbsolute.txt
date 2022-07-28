@@ -1,0 +1,14 @@
+C:\Users\aemre\Desktop\Yemek Uygulaması\bin\Debug\Yemek Uygulaması.exe.config
+C:\Users\aemre\Desktop\Yemek Uygulaması\bin\Debug\Yemek Uygulaması.exe
+C:\Users\aemre\Desktop\Yemek Uygulaması\bin\Debug\Yemek Uygulaması.pdb
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek Uygulaması.csproj.AssemblyReference.cache
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek Uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek_Uygulaması.Form1.resources
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek_Uygulaması.Properties.Resources.resources
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek Uygulaması.csproj.GenerateResource.cache
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek Uygulaması.exe
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek Uygulaması.pdb
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek_Uygulaması.Kontrol.resources
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek_Uygulaması.Kontrol1.resources
+C:\Users\aemre\Desktop\Yemek Uygulaması\obj\Debug\Yemek_Uygulaması.kontrol2.resources
